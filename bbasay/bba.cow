@@ -1,0 +1,33 @@
+##
+## Univ BBA
+## (c) Ayman Nedjmeddine (@IOAyman)
+## 		github.com/IOAyman/
+##
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+        .--.
+       |o_o |
+       |:_/ |
+      //   \\ \\
+     (|     | )
+    /'\\_   _/`\\
+    \\___)=(___/
+
+ooooo     ooo              o8o              
+`888'     `8'              `"'              
+ 888       8  ooo. .oo.   oooo  oooo    ooo 
+ 888       8  `888P"Y88b  `888   `88.  .8'  
+ 888       8   888   888   888    `88..8'   
+ `88.    .8'   888   888   888     `888'    
+   `YbodP'    o888o o888o o888o     `8'     
+oooooooooo.  oooooooooo.        .o.         
+`888'   `Y8b `888'   `Y8b      .888.        
+ 888     888  888     888     .8"888.       
+ 888oooo888'  888oooo888'    .8' `888.      
+ 888    `88b  888    `88b   .88ooo8888.     
+ 888    .88P  888    .88P  .8'     `888.    
+o888bood8P'  o888bood8P'  o88o     o8888o   
+ 2015/2016 by Ayman Nedjmeddine                                            
+
+EOC
